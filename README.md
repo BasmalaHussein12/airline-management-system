@@ -138,4 +138,4 @@ The system uses custom implementations of:
 
 - This project is for academic purposes (Data Structures course)
 - Target: understanding linked lists, queues, and GUI integration in Java
-- Do not include /target folder or .class files in repository
+
